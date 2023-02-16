@@ -65,7 +65,6 @@
         {
             "id": 1,
             "username": "Abhay",
-            "avatar": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png",
             "email": "abhay@gmail.com",
             "password": "abhay123"
         }
