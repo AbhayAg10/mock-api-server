@@ -388,5 +388,19 @@
             "position": "Junior Frontend Developer",
             "language": "Java"
         }
+    ],
+    "tasks": [
+        {
+            "task": "learn react",
+            "date": "1/9/2023",
+            "username": "a",
+            "id": 1
+        },
+        {
+            "task": "learn javascript",
+            "date": "1/9/2023",
+            "username": "a",
+            "id": 2
+        }
     ]
 }
